@@ -207,6 +207,7 @@ body {
   }
   .container__data p {
     text-align: left;
+    padding-left: 38px;
   }
 }
 
